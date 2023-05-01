@@ -1,3 +1,6 @@
+# Download DSC140B Lectures PDFs.
+# PDF will have a file name in the format of "LEC_2_Linear_Algrebra.pdf" for "Lecture 2 Linear Algrebra", for example.
+
 import requests
 import os
 from bs4 import BeautifulSoup
