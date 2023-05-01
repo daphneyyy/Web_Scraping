@@ -1,3 +1,7 @@
+# Download WI23 DSC102 Lectures PDFs.
+# PDF will have a file name in the format of "DSC102_LEC_5_Computer_Organization_Part_2-b.pdf" 
+# for "LEC 5 Computer Organization Part 2-b", for example.
+
 import requests
 import os
 from bs4 import BeautifulSoup
